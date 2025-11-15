@@ -99,6 +99,18 @@ This acts as a basic command-line interface for testing the model.
 * **Scikit-learn**
 
 ---
+## 👥 Contributors
+
+| Name            | GitHub Username | Task Assigned                                                   |
+| --------------- | --------------- | --------------------------------------------------------------- |
+| Aayan Shahid    | [@devil92006](http://github.com/devil92006)     | Data preprocessing & label encoding      |
+| Tasmiya Salim   | [@Tasmiya-Salim](https://github.com/Tasmiya-Salim)  | Model development & evaluation (Random Forest, Naive Bayes)      |
+| Taalib Rahman   | [@taalibrahman](https://github.com/taalibrahman)   | Exploratory data analysis (plots, correlations, visualizations) |
+| Tanzeela Bano   | [@Tanzeela55](https://github.com/Tanzeela55)     | Dataset cleaning (duplicates, missing values)                   |
+| Maurice Raj     | [@Maurice1713](https://github.com/Maurice1713)    | Documentation (README, project structure)                       |
+| Mohammad Faisal | [@xgfaisal544](https://github.com/xgfaisal544)    | Prediction function & CLI-style interface                       |
+
+--
 
 ## 🚀 How to Run the Project
 
